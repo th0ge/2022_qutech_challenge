@@ -8,3 +8,11 @@ https://docs.google.com/presentation/d/18zLIH3bPn5DcOlUPO26rEfCIEDmAuZDNS7s-9MdN
 - Jade Glass
 #Description
 This project simulates the QKD protocol on an actual quantum computer, powered by Quinspire. It takes inputs from both parties and outputs a key back to both parties.
+#Experience
+Our team learned a lot throughout this entire competition. We first decided to do QKD instead of Quantum error detection. We then had an idea for a QKD game that
+is a lot like battleship, where the sender places her message on certain coordinates, and if the coordinates match up with the reciever, then the reciever receives 
+the message. We later realized that we wouldn't have enough time to do that, so we got to work answering the prompt. We worked with qbraid and wrote the entire protocol
+with inputs from both the sender and the reciever. In the end, the code would output a key that is intended to be sent back to both parties. The protocol uses the exact ideas
+of QKD to do everything and runs everything on the Starmon-5 backend. We then attempted to create an online interface, but we ended up running out of time and could not figure out
+how to connect the qbraid code to the web interface in such a way that the web interface would interact with QuInspire. Overall, we are proud of what we achieved and what we
+learned.
