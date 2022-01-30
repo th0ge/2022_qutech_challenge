@@ -7,7 +7,8 @@ https://docs.google.com/presentation/d/18zLIH3bPn5DcOlUPO26rEfCIEDmAuZDNS7s-9MdN
 - Thomas Verrill
 - Jade Glass
 #Description
-This project simulates the QKD protocol on an actual quantum computer, powered by Quinspire. It takes inputs from both parties and outputs a key back to both parties.
+This project simulates the QKD protocol on an actual quantum computer, powered by Quinspire. It takes inputs from both parties and outputs a key back to both parties. 
+Attached in the repo is also code for a user interface, although we were not able to get it working.
 #Experience
 Our team learned a lot throughout this entire competition. We first decided to do QKD instead of Quantum error detection. We then had an idea for a QKD game that
 is a lot like battleship, where the sender places her message on certain coordinates, and if the coordinates match up with the reciever, then the reciever receives 
